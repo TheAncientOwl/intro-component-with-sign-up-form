@@ -1,0 +1,2 @@
+(this["webpackJsonpintro-component-with-sign-up-form"]=this["webpackJsonpintro-component-with-sign-up-form"]||[]).push([[0],{10:function(n,t,e){"use strict";e.r(t);var o=e(1),i=e.n(o),r=e(3),c=e.n(r),s=e(0);function p(){return Object(s.jsx)("div",{style:{textAlign:"center",marginTop:"20x",fontSize:"25px"},children:"~ Hello world! ~"})}e(9);c.a.render(Object(s.jsx)(i.a.StrictMode,{children:Object(s.jsx)(p,{})}),document.getElementById("root"))},9:function(n,t,e){}},[[10,1,2]]]);
+//# sourceMappingURL=main.1844dae7.chunk.js.map

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/intro-component-with-sign-up-form/static/css/main.8be9312a.chunk.css",
+    "main.js": "/intro-component-with-sign-up-form/static/js/main.1844dae7.chunk.js",
+    "main.js.map": "/intro-component-with-sign-up-form/static/js/main.1844dae7.chunk.js.map",
+    "runtime-main.js": "/intro-component-with-sign-up-form/static/js/runtime-main.64d613d4.js",
+    "runtime-main.js.map": "/intro-component-with-sign-up-form/static/js/runtime-main.64d613d4.js.map",
+    "static/js/2.67aa9ec7.chunk.js": "/intro-component-with-sign-up-form/static/js/2.67aa9ec7.chunk.js",
+    "static/js/2.67aa9ec7.chunk.js.map": "/intro-component-with-sign-up-form/static/js/2.67aa9ec7.chunk.js.map",
+    "index.html": "/intro-component-with-sign-up-form/index.html",
+    "static/css/main.8be9312a.chunk.css.map": "/intro-component-with-sign-up-form/static/css/main.8be9312a.chunk.css.map",
+    "static/js/2.67aa9ec7.chunk.js.LICENSE.txt": "/intro-component-with-sign-up-form/static/js/2.67aa9ec7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64d613d4.js",
+    "static/js/2.67aa9ec7.chunk.js",
+    "static/css/main.8be9312a.chunk.css",
+    "static/js/main.1844dae7.chunk.js"
+  ]
+}

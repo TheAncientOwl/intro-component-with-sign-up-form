@@ -1,0 +1,15 @@
+import { Container, Title, Paragraph } from './InfoElements';
+
+export default function Info() {
+  return (
+    <Container>
+      <div>
+        <Title>Learn to code by watching others</Title>
+        <Paragraph>
+          See how experienced developers solve problems in real-time. Watching scripted tutorials is great, but
+          understanding how developers think is invaluable.
+        </Paragraph>
+      </div>
+    </Container>
+  );
+}

@@ -1,3 +1,10 @@
+@import url('https://fonts.google.com/specimen/Poppins');
+
 ::-webkit-scrollbar {
   display: none;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
 }
